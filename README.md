@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **HE-NET Telecomunicações**
 
-- 🌱 I’m currently working with **HTML, CSS, Javascript, React, React Native, SQL, Git & GitHub, Node.js, Web Designer(UI, UX) and more**
+- 🌱 I’m currently working with **HTML, CSS, Javascript, React, React Native, SQL, Git & GitHub, Node.js, Designer(UI, UX) and more**
 
 - 👯 I’m looking to collaborate on **React and React Native Projects**
 
