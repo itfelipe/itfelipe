@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe Rocha</h1>
-<h3 align="center">A passionate Development Analyst from Brasil</h3>
+<h3 align="center">A passionate Full Stack Developer from Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itfelipe&label=Profile%20views&color=0e75b6&style=flat" alt="itfelipe" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working with **HTML, CSS, Javascript, React, React Native, SQL, Git & GitHub, Node.js, Designer(UI, UX) and more**
 
-- 👯 I’m looking to collaborate on **React and React Native Projects**
+- 👯 I’m looking to collaborate on **React Native Projects**
 
 - 📫 How to reach me **itfeliperocha@gmail.com**
 
